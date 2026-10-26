@@ -1,0 +1,25 @@
+n,algoritma,skenario,perbandingan,waktu_us
+100,Linear Search,Awal,1,3.9715
+100,Binary Search,Awal,6,9.3885
+100,Linear Search,Tengah,50,68.145
+100,Binary Search,Tengah,1,2.86
+100,Linear Search,Akhir,100,147.0265
+100,Binary Search,Akhir,7,11.1785
+100,Linear Search,Tidak ditemukan,100,174.852
+100,Binary Search,Tidak ditemukan,7,11.428
+1000,Linear Search,Awal,1,5.9885
+1000,Binary Search,Awal,9,26.193
+1000,Linear Search,Tengah,500,917.6295
+1000,Binary Search,Tengah,1,2.847
+1000,Linear Search,Akhir,1000,1820.6545
+1000,Binary Search,Akhir,10,18.2135
+1000,Linear Search,Tidak ditemukan,1000,1798.969
+1000,Binary Search,Tidak ditemukan,10,22.265
+10000,Linear Search,Awal,1,13.7765
+10000,Binary Search,Awal,13,29.9745
+10000,Linear Search,Tengah,5000,10094.8495
+10000,Binary Search,Tengah,1,3.624
+10000,Linear Search,Akhir,10000,19852.1895
+10000,Binary Search,Akhir,14,22.9735
+10000,Linear Search,Tidak ditemukan,10000,20983.8005
+10000,Binary Search,Tidak ditemukan,13,25.9125
